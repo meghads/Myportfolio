@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Shopping Cart WebApp",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn Javascript and Firebase by building an interactive app.",
+      "skills": ["Javascript", "Firebase"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/meghads/shoppinglist"
+    },
+    {
+      "title": "Leads Tracker",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the basic concepts of Javascript by building an app.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/meghads/leadstracker"
+    },
+    {
+      "title": "Dojo Blog",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the basic concepts of React by building an app.",
+      "skills": ["React", "Javascript", "Vite"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/meghads/blogwebsite"
+    }
+  ]

@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Front-End Developer",
+      "organisation": "HACKATHON - Authentitcation of doctors",
+      "experiences": [
+        "Developed a responsive portfolio website",
+        "Implemented features using HTML, CSS, and JavaScript"]
+    },
+    {
+      "role": "Participant - React workshop",
+      "organisation": "IEEE SIT-SB",
+      "experiences": [
+        "Enrolled in advanced web development courses to deepen technical knowledge",
+        "Completed hands-on projects involving React and animations in CSS",
+        "Received certification of participation"
+      ]
+    },
+    {
+      "role": "Participant - Aurdino and LFR workshop",
+      "organisation": "Corsit",
+      "experiences": [
+        "Enrolled in Aurdino workshop to deepen technical knowledge",
+        "Completed hands-on projects involving LFR",
+        "Received certification of participation"
+      ]
+    }
+  ]
+  
