@@ -15,7 +15,7 @@ bash node -v npm -v
 ### Installation
 
 1. Clone the repository:
-    bash git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/meghads/Myportfolio/tree/master)
+    bash git clone [https://github.com/meghads/Myportfolio.git](https://github.com/meghads/Myportfolio/tree/master)
 
 2. Install the dependencies:
     bash npm install
