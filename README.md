@@ -15,16 +15,16 @@ bash node -v npm -v
 ### Installation
 
 1. Clone the repository:
-    bash git clone [https://github.com/meghads/Myportfolio.git](https://github.com/meghads/Myportfolio/tree/master)
+     git clone [https://github.com/meghads/Myportfolio.git](https://github.com/meghads/Myportfolio/tree/master)
 
 2. Install the dependencies:
-    bash npm install
+     npm install
 
   
 ### Running the Project
 
 Start the development server:
-bash npm start
+ npm run dev
  
 
 Open your browser and go to `http://localhost:3000` to view the website.
@@ -32,11 +32,10 @@ Open your browser and go to `http://localhost:3000` to view the website.
 ## Technologies Used
 
 - **Frontend**: React.js
-- Additional libraries and frameworks may be listed here based on what you used in your project.
 
 ## Features
 
-- Briefly describe the key features of your portfolio website. For example:
+- Key features of my portfolio website.:
   - Responsive design for mobile and desktop viewing.
   - Interactive elements showcasing projects.
   - Contact form for inquiries.
