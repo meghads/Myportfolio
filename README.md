@@ -45,7 +45,3 @@ Open your browser and go to `http://localhost:3000` to view the website.
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and create a pull request.
 
-
-## Acknowledgments
-
-- Special thanks to the creator of the tutorial video on YouTube ([link to the video](https://www.youtube.com/watch?v=YQCDUJ6hhNY)) for guiding me through building this portfolio website.
